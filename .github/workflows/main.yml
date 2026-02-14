@@ -10,21 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+          
       - name: Install Tools
         run: |
           pip install playwright
           playwright install chromium
           playwright install-deps
+          
       - name: Run Update
         run: python main.py
+        
       - name: Save Changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          # เพิ่มบรรทัดด้านล่างนี้เพื่อป้องกันปัญหา Rejected
+          git pull origin main --rebase
           git add MOM.w3u
           git commit -m "Auto update $(date)" || exit 0
           git push
