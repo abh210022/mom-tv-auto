@@ -467,14 +467,14 @@
             "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
             "url": "https://raw.githubusercontent.com/udzaa2238/now-sport/refs/heads/main/fastopen-monomax-1.m3u8",
             "referer": "https://github.com/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "MONOMAX 2",
             "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
             "url": "https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/fastopen-monomax-2.m3u8",
             "referer": "https://github.com/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "MONOMAX 3",
