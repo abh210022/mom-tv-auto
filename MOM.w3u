@@ -339,36 +339,36 @@
         {
             "name": "True Sports 2",
             "image": "https://ball67.com/assets/channels-logo/truesport2.png",
-            "url": "https://ball67.com/channels/truesports2/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts2.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "True Sports 3",
             "image": "https://ball67.com/assets/channels-logo/truesport3.png",
-            "url": "https://ball67.com/channels/truesports3/",
-            "referer": "https://ball67.com/",
+            "url": "https://github.com/Asawin65/ASawin/blob/main/m3u8/sport/ts3.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "True Sports 4",
             "image": "https://ball67.com/assets/channels-logo/truesport4.png",
-            "url": "https://ball67.com/channels/truesports4/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts4.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "True Sports 5",
             "image": "https://ball67.com/assets/channels-logo/truesport5.png",
-            "url": "https://ball67.com/channels/truesports5/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts5.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "True Sports 7",
             "image": "https://ball67.com/assets/channels-logo/truesport7.png",
-            "url": "https://ball67.com/channels/truesports7/",
-            "referer": "https://ball67.com/",
+            "url": "https://raw.githubusercontent.com/Asawin65/ASawin/refs/heads/main/m3u8/sport/ts7.m3u8",
+            "referer": "https://github.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
