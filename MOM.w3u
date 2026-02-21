@@ -332,8 +332,8 @@
         {
             "name": "True Sports 1",
             "image": "https://ball67.com/assets/channels-logo/truesport1.png",
-            "url": "https://ball67.com/channels/truesports1/",
-            "referer": "https://ball67.com/",
+            "url": "https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
@@ -346,8 +346,8 @@
         {
             "name": "True Sports 3",
             "image": "https://ball67.com/assets/channels-logo/truesport3.png",
-            "url": "https://github.com/Asawin65/ASawin/blob/main/m3u8/sport/ts3.m3u8",
-            "referer": "https://github.com/",
+            "url": "https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
@@ -409,36 +409,36 @@
         {
             "name": "BEIN 5",
             "image": "https://ball67.com/assets/channels-logo/bein5.png",
-            "url": "https://ball67.com/channels/bein5/",
-            "referer": "https://ball67.com/",
+            "url": "https://www.livedoomovies.com:4431/02_epl5_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "BEIN 6",
             "image": "https://ball67.com/assets/channels-logo/bein6.png",
-            "url": "https://ball67.com/channels/bein6/",
-            "referer": "https://ball67.com/",
+            "url": "https://www.livedoomovies.com:4431/02_epl6_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "BEIN 7",
             "image": "https://ball67.com/assets/channels-logo/bein7.png",
-            "url": "https://ball67.com/channels/bein7/",
-            "referer": "https://ball67.com/",
+            "url": "https://www.livedoomovies.com:4431/02_epl7_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "True Premier Football 3",
             "image": "https://ball67.com/assets/channels-logo/truepremier3.png",
-            "url": "https://dookeela4.live/live-tv/tpf3",
-            "referer": "https://dookeela4.live/",
+            "url": "https://www.livedoomovies.com:4431/02_PremierHD3_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
             "name": "True Premier Football 4",
             "image": "https://ball67.com/assets/channels-logo/truepremier4.png",
-            "url": "https://dookeela4.live/live-tv/tpf4",
-            "referer": "https://dookeela4.live/",
+            "url": "https://www.livedoomovies.com:4431/02_PremierHD4_720p/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
@@ -493,50 +493,50 @@
         {
             "name": "PLAY SPORTS FOOTBALL 1 ",
             "image": "https://dookeela2.live/uploads/1754476003.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball1/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_1HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "PLAY SPORTS FOOTBALL 2 ",
             "image": "https://dookeela2.live/uploads/1754969046.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball2/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_2HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "PLAY SPORTS FOOTBALL 3 ",
             "image": "https://dookeela2.live/uploads/1754968579.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball3/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_3HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "PLAY SPORTS FOOTBALL 4 ",
             "image": "https://dookeela2.live/uploads/1754968644.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball4/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_4HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "PLAY SPORTS FOOTBALL 5 ",
             "image": "https://dookeela2.live/uploads/1754968657.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball5/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_5HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "PLAY SPORTS FOOTBALL 6 ",
             "image": "https://dookeela2.live/uploads/1754968665.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball6/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_6HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
             "name": "PLAY SPORTS FOOTBALL 7 ",
             "image": "https://dookeela2.live/uploads/1754968677.png",
-            "url": "https://cdn1.goozaa.xyz/dkls/playsportsfootball7/playlist.m3u8",
-            "referer": "https://ballonair.online/",
+            "url": "https://www.livedoomovies.com:4431/AIS_PLAY_7HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
