@@ -465,8 +465,22 @@
         {
             "name": "MONOMAX 1",
             "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 1",
+            "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
             "url": "https://raw.githubusercontent.com/udzaa2238/now-sport/refs/heads/main/fastopen-monomax-1.m3u8",
             "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 2",
+            "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
@@ -479,6 +493,13 @@
         {
             "name": "MONOMAX 3",
             "image": "https://ball67.com/assets/channels-logo/monomax-3.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 3",
+            "image": "https://ball67.com/assets/channels-logo/monomax-3.png",
             "url": "https://ball67.com/channels/monomax3/",
             "referer": "https://ball67.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
@@ -486,8 +507,43 @@
         {
             "name": "MONOMAX 4",
             "image": "https://ball67.com/assets/channels-logo/monomax-4.png",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 4",
+            "image": "https://ball67.com/assets/channels-logo/monomax-4.png",
             "url": "https://ball67.com/channels/monomax4/",
             "referer": "https://ball67.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 5",
+            "image": "https://www.imgx02.xyz/assets/img/ch_logo/PL_Mono5.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_5HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 6",
+            "image": "https://www.imgx03.xyz/assets/img/ch_logo/PL_Mono6.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_6HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 7",
+            "image": "https://www.imgx04.xyz/assets/img/ch_logo/PL_Mono7.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_7HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+            "name": "MONOMAX 8",
+            "image": "https://www.imgx05.xyz/assets/img/ch_logo/PL_Mono8.jpg",
+            "url": "https://www.livedoomovies.com:4431/Monomax_PL_8HD/playlist.m3u8",
+            "referer": "https://www.88-hd.com/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
