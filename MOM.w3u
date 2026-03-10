@@ -540,6 +540,13 @@
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
+            "name": "MONOMAX 1",
+            "image": "https://ball67.com/assets/channels-logo/monomax-1.png",
+            "url": "https://love.1fmz7npue0.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8",
+            "referer": "https://love.1fmz7npue0.workers.dev/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
             "name": "MONOMAX 2",
             "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
             "url": "https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8",
@@ -551,6 +558,13 @@
             "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
             "url": "https://github.com/cattviptv2605/sportthai/raw/refs/heads/main/MONOMAX2.m3u8",
             "referer": "https://github.com/",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
+        },
+        {
+            "name": "MONOMAX 2",
+            "image": "https://ball67.com/assets/channels-logo/monomax-2.png",
+            "url": "https://love.1fmz7npue0.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8",
+            "referer": "https://love.1fmz7npue0.workers.dev/",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
         },
         {
