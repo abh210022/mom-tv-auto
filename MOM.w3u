@@ -435,6 +435,13 @@
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+            "name": "BEIN 1",
+            "image": "https://ball67.com/assets/channels-logo/bein1.png",
+            "url": "https://love.xapubeke.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8",
+            "referer": "https://love.xapubeke.workers.dev/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
             "name": "BEIN 2",
             "image": "https://ball67.com/assets/channels-logo/bein2.png",
             "url": "https://www.livedoomovies.com:4431/02_epl2_720p/playlist.m3u8",
